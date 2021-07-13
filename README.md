@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+## About the project
+
+This project is about handling pet appointments, following Udemy's couse: "React-La Guía Completa: Hooks Context Redux MERN +15 Apps" by Juan Pablo De la torre Valdez.
+Hosted at: https://lucid-borg-f8f244.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
